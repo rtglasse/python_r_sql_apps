@@ -1,3 +1,5 @@
+Data Science in Sports Analytics & the NHL - A capstone report on how data science is utilized in the realm of sports analytics, how it has evolved over time, and its specific applications to the National Hockey League
+
 Neural Network Code.pdf - A Jupyter Notebook code file converted to PDF showing how the PyTorch Library is utilized to train and evaluate various neural networks for classification purposes 
 
 NHL Analysis Code and Report.pdf - A Jupyter Notebook code file to PDF showcasing analyses conducted on an NHL dataset from Kaggle (public repository), as well a supplemental report describing purposes and results from NHL game data analyses. 
